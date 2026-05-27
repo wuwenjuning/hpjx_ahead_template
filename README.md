@@ -1,7 +1,4 @@
 <div align="center">
-
-<img alt="vue3-element-admin" width="80" src="./src/assets/images/logo.png">
-
 # hpjx_ahead_template
 
 > 基于 [youlaitech/vue3-element-admin](https://github.com/youlaitech/vue3-element-admin) 初始化，作为 HPJX Ahead 前端项目模板。
@@ -10,18 +7,11 @@
 
 [![Vue](https://img.shields.io/badge/Vue-3.5.30-brightgreen.svg)](https://vuejs.org/)
 [![Element Plus](https://img.shields.io/badge/Element%20Plus-2.13.6-blue.svg)](https://element-plus.org/)
-[![Gitee Star](https://gitee.com/youlaiorg/vue3-element-admin/badge/star.svg)](https://gitee.com/youlaiorg/vue3-element-admin/stargazers)
-[![GitHub Star](https://img.shields.io/github/stars/youlaitech/vue3-element-admin?style=social)](https://github.com/youlaitech/vue3-element-admin)
-[![GitCode Star](https://gitcode.com/youlai/vue3-element-admin/star/badge.svg)](https://gitcode.com/youlai/vue3-element-admin/stargazers)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
-</div>
+[![Gitee Star](https://gitee.com/youlaiorg/vue3-element-admin/badge/star.svg)
 
 ![](https://foruda.gitee.com/images/1708618984641188532/a7cca095_716974.png "rainbow.png")
 
-<div align="center">
-  <a target="_blank" href="https://vue.youlai.tech">🖥️ 在线预览</a> | <a target="_blank" href="https://app.youlai.tech">📲 移动端预览</a> |  <a target="_blank" href="https://juejin.cn/post/7228990409909108793">📑 阅读文档</a>|  <a target="_blank" href="https://www.youlai.tech/docs/web/">🌐 官网</a> | <a href="./README.en-US.md">💬 English
-</div>
+
 
 ## 项目简介
 
@@ -176,27 +166,8 @@ server {
 
   ![](https://foruda.gitee.com/images/1687755823137387608/412ea803_716974.png)
 
-- **项目启动浏览器访问空白**
+  
 
-  请升级浏览器尝试，低版本浏览器内核可能不支持某些新的 JavaScript 语法，比如可选链操作符 `?.`。
-
-- **项目同步仓库更新升级**
-
-  项目同步仓库更新升级之后，建议 `pnpm install` 安装更新依赖之后启动 。
-
-- **项目组件、函数和引用爆红**
-
-  重启 VSCode 尝试
-
-- **其他问题**
-
-  如果有其他问题或者建议，建议 [ISSUE](https://gitee.com/youlaiorg/vue3-element-admin/issues/new)
-
-## 提交规范
-
-执行 `pnpm run commit` 唤起 git commit 交互，根据提示完成信息的输入和选择。
-
-![](https://foruda.gitee.com/images/1687755823165218215/c1705416_716974.png)
 
 
 
