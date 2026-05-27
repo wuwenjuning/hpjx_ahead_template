@@ -81,20 +81,7 @@
 | [vue3-element-template](https://gitee.com/youlaiorg/vue3-element-template) | Vue 3 + Vite + TS + Element Plus | 精简模板 |
 | [youlai-app](https://gitee.com/youlaiorg/youlai-app) | Vue 3 + UniApp | 移动端 App |
 
-**后端**
-
-| 项目 | 技术栈 | 说明 |
-|:-----|:-------|:-----|
-| [youlai-boot](https://gitee.com/youlaiorg/youlai-boot) | Spring Boot + MyBatis-Plus | Java 后端（主推） |
-| [youlai-nest](https://gitee.com/youlaiorg/youlai-nest) | NestJS + TypeORM | Node.js |
-| [youlai-gin](https://gitee.com/youlaiorg/youlai-gin) | Go + Gorm | Go |
-| [youlai-django](https://gitee.com/youlaiorg/youlai-django) | Django + DRF | Python |
-| [youlai-think](https://gitee.com/youlaiorg/youlai-think) | ThinkPHP 8 | PHP |
-| [youlai-aspnet](https://gitee.com/youlaiorg/youlai-aspnet) | ASP.NET Core | C# |
-
-> **youlai-boot** 还提供以下变种和分支版本：[多租户](https://gitee.com/youlaiorg/youlai-boot-tenant)（Spring Boot 4）· [MyBatis-Flex](https://gitee.com/youlaiorg/youlai-boot-flex)（Spring Boot 4）· [Spring Boot 3](https://gitee.com/youlaiorg/youlai-boot/tree/spring-boot-3) · [PostgreSQL](https://gitee.com/youlaiorg/youlai-boot/tree/db-pg) · [多模块](https://gitee.com/youlaiorg/youlai-boot/tree/multi-module)
->
-> 六种后端共享同一套 **RESTful API 规范** 和 **数据库结构**，前端可无缝切换。
+> 
 
 ## 开发指南
 
@@ -121,7 +108,7 @@
 
 ```bash
 # 克隆代码
-git clone https://gitee.com/youlaiorg/vue3-element-admin.git
+git clone https://github.com/wuwenjuning/hpjx_ahead_template
 
 # 切换目录
 cd vue3-element-admin
@@ -211,34 +198,5 @@ server {
 
 ![](https://foruda.gitee.com/images/1687755823165218215/c1705416_716974.png)
 
-## 项目统计
 
-![](https://repobeats.axiom.co/api/embed/aa7cca3d6fa9c308fc659fa6e09af9a1910506c3.svg "Repobeats analytics image")
 
-Thanks to all the contributors!
-感谢所有的贡献者！
-
-[![contributors](https://contrib.rocks/image?repo=youlaitech/vue3-element-admin)](https://github.com/youlaitech/vue3-element-admin/graphs/contributors)
-
----
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="./src/assets/images/qr/wechat-official.png" height="180" alt="公众号「有来技术」"><br>
-      <sub>公众号「有来技术」</sub>
-    </td>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td align="center">
-      <img src="./src/assets/images/qr/wechat-mp.jpg" height="180" alt="小程序「有来技术」"><br>
-      <sub>小程序「有来技术」</sub>
-    </td>
-    <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td align="center">
-      <img src="./src/assets/images/qr/wechat-personal.png" height="180" alt="添加作者微信"><br>
-      <sub>添加作者微信</sub>
-    </td>
-  </tr>
-</table>
-
-<p align="center"><em>技术交流 · 问题反馈 · 商务合作</em></p>
